@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RotinaDivertida</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="senha">Senha:</string>
+    <string name="cadastro">Não possui uma conta? Cadastre-se</string>
+    <string name="acesse">Ou acesse com:</string>
+    <string name="button">Entrar</string>
+</resources>
